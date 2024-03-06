@@ -55,6 +55,28 @@
   </div>
 </nav>
 
+<!-- Hero Section -->
+<section id="hero">
+  <div class="Container h-100">
+    <div class="row h-100">
+      <div class="col-sm-8 hero-tagline">
+            <h1>Enjoy Staycation With <br>
+
+             <span class="hb"> Hotelbook</span></h1>
+            <p>Halo Travellers, dengan pilihan harga terbaik dan layanan 24/7, kami siap bantuin buat booking hotel pilihan kamu.
+
+<br><span class="pj">#jalanbarengHotelbook</span>, booking hotel harga Teman.</p>
+      </div>
+      <div>
+      
+      
+        <img src="assets/aces.png" class="position-absolute end-0 bottom-0">
+          <img src="assets/hero1.png" class="position-absolute end-0 bottom-0">
+      </div>
+    </div>
+  </div>
+</section>
+
   <!-- bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>

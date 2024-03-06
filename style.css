@@ -40,3 +40,37 @@ ul li a:hover{
     font-size: 16px;
     font-weight: 700;
 }
+
+#hero{
+    background: linear-gradient(160 deg, var(--primary), #000);
+    height: 100vh;
+    width: 100vh;
+}
+
+.hb{
+    color: var(--primary)
+}
+
+.img-hero{
+    height: 100%;
+}
+
+.hero-tagline h1{
+ color: #fff;
+ font-size: 52px;
+ font-weight: 700;
+ line-height: 72px;
+}
+
+.hero-tagline p{
+ color: #fff;
+ font-size: 16px;
+ margin-bottom: 60px;
+ margin-top: 20px;
+ line-height: 30px;
+ width: 85%;
+}
+
+.pj{
+    color: var(--primary);
+}
